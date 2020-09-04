@@ -2,7 +2,7 @@
   "name": "clubs",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://HackClubSKNCOE.github.io/Clubs",
+  "homepage": "hc.duolancers.codes",
   "dependencies": {
     "@hackclub/icons": "^0.0.3",
     "@hackclub/theme": "^0.3.0",
